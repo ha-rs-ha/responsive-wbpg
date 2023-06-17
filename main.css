@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    padding: 10;
+    margin: 10;
+}
+body{
+    background:rgb(210, 84, 138);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card {
+  background:rgb(3, 2, 83);
+  width: 200px;
+  height: 200px;
+  margin:10px;
+  color:white;
+}
+
+
